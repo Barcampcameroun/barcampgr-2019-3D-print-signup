@@ -24,6 +24,7 @@ header{
     background-color: white;
     border-bottom: 2px groove #cc0000;
     overflow: hidden;
+    font-family: "Roboto" 900;
 }
 
 
@@ -40,14 +41,14 @@ header a{
     display: inline-block;
     padding: 13px 50px;
     border-radius: 3px;
-    font: bold 14px/1 'Open Sans', sans-serif;
+/*    font: bold 14px/1 'Open Sans', sans-serif;*/
     text-transform: uppercase;
     background-color:#F05283;
 
 }
 
 header img {
-    padding-right: 15px;
+    padding-right: 20px;
 }
 
 ul {
